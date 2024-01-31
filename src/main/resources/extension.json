@@ -1,0 +1,5 @@
+{
+  "entrypoint": "dev.andus.stomskins.Main",
+  "name": "StomSkins",
+  "version": "1.0.0"
+}
